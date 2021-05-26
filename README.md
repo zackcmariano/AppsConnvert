@@ -2,9 +2,7 @@
 
 # APPS CONNVERT
 
-## Então vamos lá, conhecer os AppsConnvert!
-## Nosso primeiro passo é dar PULL na imagem e começar a experiência,
-## através de um Dashboard interativo feito em Django/Html/Css/Bootstrap 😉
+## Então vamos lá, conhecer os AppsConnvert! Nosso primeiro passo é dar PULL na imagem e começar a experiência, através de um Dashboard interativo feito em Django/Html/Css/Bootstrap 😉
 
 ## Vamos para os comandos DOCKER 🐳
 
@@ -19,4 +17,4 @@
 
 ## Prontinho, agora é só dar PLAY e navegar pelo DASHBOARD.
 ### E lembre-se, se tiver alguma dúvida sobre a imagem é só acessar a página oficial do DOCKER onde está versionado a IMAGEM desse Repositório:
-Link da imagem no hub.docker : https://hub.docker.com/repository/docker/zackcmariano/appsconnvert
+-  Link da imagem no hub.docker : https://hub.docker.com/repository/docker/zackcmariano/appsconnvert
