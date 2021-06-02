@@ -9,7 +9,7 @@
 ### BAIXANDO A IMAGE (PULL):
 -  docker pull zackcmariano/appsconnvert:latest
 
-### EXECUTANDO A IMAGEM EM UM CONTAINER (RUN) :
+### EXECUTANDO A IMAGEM EM UM CONTAINER (RUN):
 -  docker run -d -p 8000:8000 --name appconnvert zackcmariano/appsconnvert:latest
 
 ### Agora é só acessar a container no seu LOCAL HOST e Pronto :
