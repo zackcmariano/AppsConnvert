@@ -12,7 +12,7 @@
 ### EXECUTANDO A IMAGEM EM UM CONTAINER (RUN) :
 -  docker run -d -p 8000:8000 --name appconnvert zackcmariano/appsconnvert:latest
 
-### Agora é só acessar a container no seu LOCAL HOST e Pronto:
+### Agora é só acessar a container no seu LOCAL HOST e Pronto :
 -  http://localhost:8000/
 
 ## Prontinho, agora é só dar PLAY e navegar pelo DASHBOARD.
