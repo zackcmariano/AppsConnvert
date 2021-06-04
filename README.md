@@ -16,7 +16,7 @@
 -  http://localhost:8000/
 
 ## Prontinho, agora é só dar PLAY e navegar pelo DASHBOARD.
-### E lembre-se, se tiver alguma dúvida sobre a imagem é só acessar a página oficial do DOCKER onde está versionado a IMAGEM desse Repositório:
+### E lembre-se, se tiver alguma dúvida sobre a imagem é só acessar a página oficial do DOCKER onde está versionado a IMAGEM desse Repositório :
 -  Link da imagem no hub.docker : https://hub.docker.com/repository/docker/zackcmariano/appsconnvert
 
 
