@@ -6,7 +6,7 @@
 
 ## Vamos para os comandos DOCKER 🐳
 
-### BAIXANDO A IMAGE (PULL):
+### BAIXANDO A IMAGE (PULL) :
 -  docker pull zackcmariano/appsconnvert:latest
 
 ### EXECUTANDO A IMAGEM EM UM CONTAINER (RUN) :
